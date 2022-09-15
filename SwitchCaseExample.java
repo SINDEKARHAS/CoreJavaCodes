@@ -29,6 +29,7 @@ public class SwitchCaseExample {
 					
 					a = pie * rad * rad;
 					System.out.println("Areas: "+a);
+					System.out.println("Hello world");
 					break;
 			case 2:
 					
